@@ -59,7 +59,7 @@ do
     --no-first-run \
     --start-maximized \
     --window-position=0,0 \
-    --window-size=1024,768 \
+    --window-size=1920,1080 \
     --disable \
     --disable-translate \
     --disable-infobars \
@@ -67,7 +67,7 @@ do
     --disable-save-password-bubble \
     --disable-session-crashed-bubble \
     --incognito \
-    --kiosk "https://neave.tv/"
+    --kiosk "https://portal/integral/Production/ScheduleJob"
   sleep 5
 done &
 EOF
